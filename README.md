@@ -33,4 +33,4 @@ With a tab of the space bar the game starts!
 
 This is the maze of our fun game, the one who collides with the other wins.
 
-Good Luck!!
+Good Luck, Gamers!!
